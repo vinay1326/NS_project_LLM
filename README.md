@@ -16,7 +16,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/Gop1Prudhv1/NS_OnDemand_QABot.git
+git clone [(https://github.com/vinay1326/NS_project_LLM.git)](https://github.com/vinay1326/NS_project_LLM.git)
 cd NS_OnDemand_QABot
 Set Up a Virtual Environment
 
